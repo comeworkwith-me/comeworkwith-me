@@ -9,3 +9,4 @@
 
 
 - 📫 You can reach me at: letstalk@pretti.media
+- 📓 You can read my articles on [HackerNoon](https://hackernoon.com/u/scarlettspade)
