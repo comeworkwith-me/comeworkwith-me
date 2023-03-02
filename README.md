@@ -70,4 +70,5 @@
 
 ### RECENT CONTENT
 <!-- BLOG-POST-LIST:START -->
+- [NFT Creation on Zora: A No Code Guide for Creators](https://scarlettspade.hashnode.dev/no-code-nfts-on-zora)
 <!-- BLOG-POST-LIST:END -->
