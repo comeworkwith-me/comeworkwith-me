@@ -64,7 +64,7 @@
 <br></br>
 
 <h3 align="left">LANGUAGES</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=comeworkwith-me&show_icons=true&locale=en&layout=compact" alt="comeworkwith-me" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=comeworkwith-me&show_icons=true&locale=en&layout=compact&theme=jolly" alt="comeworkwith-me" /></p>
 
 <br></br>
 
