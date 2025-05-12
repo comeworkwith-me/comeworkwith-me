@@ -46,14 +46,10 @@
 
 ### ABOUT ME
 
-- 🚀 I'm the founder of [build pr3tti](https://buildpr3tti.xyz/) and I'm interested in partnerships/sponsorships.
-- 💜 I do consulting at [Pretti Media](https://pretti.media/) and I'm currently available for client work.
 - 🌱 I’m exploring **Lens, Zora, and Solana**
 
 - ⚡ Fun fact, **I'm a cinemaphile.**
 <br></br>
-
-- 📫 You can reach me at **letstalk@pretti.media**
 
 <br></br>
 <h3 align="left">🛠️ TOOLS:</h3>
